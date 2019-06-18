@@ -1,2 +1,2 @@
-# bootsrap-resume
+# bootstrap-resume
 resume
